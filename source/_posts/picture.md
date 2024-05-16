@@ -5,3 +5,4 @@ tags:
 ---
 
 ![](SugerRush.jpg)
+![](星野.jpg)
